@@ -8,3 +8,4 @@ Options: -l, -R, -a, -r and -t.
 ## Links
 - https://johnloomis.org/ece537/notes/Files/Examples/ls2.html
 - https://linux.die.net/man/2/stat
+- http://manpagesfr.free.fr/man/man2/stat.2.html
